@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+export doing_debug=yes
+export doing_for_pipe=yes
+#export doing_extra_setting=
+
+export extract_sort=asc
+export extract_group_by=yes
+export extract_counting=yes
+export extract_sort_by_counting=desc
+export extract_excluding=yes
+export extract_excluding_words_file=./word_books/excloding_words #custom
+export extract_including_number=yes
+export extract_including_pure_number=no
+export extract_excluding_words_ignore_first_letter_case=yes
+export extract_excluding_chinese_character=yes
+export extract_ignore_case=no
+export extract_excluding_words_ignore_case=no #custom
+export extract_ignore_first_letter_case=yes
+export extract_excluding_words_ignorecase_file_location=/tmp
+export extract_ignore_row_prefix='#'

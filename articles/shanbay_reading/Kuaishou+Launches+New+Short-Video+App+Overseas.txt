@@ -1,0 +1,9 @@
+#https://www.shanbay.com/news/articles/kgroq
+
+Kuaishou Launches New Short-Video App Overseas
+快手海外发力，新APP登陆谷歌应用商店
+
+Kuaishou recently launched a new short-video app called SnackVideo on Google Play targeting overseas users. SnackVideo is different from Kuaishou’s other overseas app Kwai in that it more closely resembles ByteDance’s TikTok. It is built using a recommendation algorithm that suggests user videos based on their preferences. 
+In fact, the app’s all-black interface is very similar to TikTok’s. The “Discovery” interface on the home-screen contains a hot search section, virtually copying TikTok’s discovery section. The users’ personal section also looks identical to ByteDance’s app. 
+According to 36Kr, Kuaishou has a team dedicated to developing and operating overseas products code-named XYZ. The XYZ team has currently developed at least four products, including music video production platform MVMaster, medium and short video social products UVideo and VStatus, and photo-sharing meme community Lolita specifically targeting Egyptian users. 
+The cumulative active users of these products overseas have exceeded 100 million, and the daily active users have exceeded 20 million. 

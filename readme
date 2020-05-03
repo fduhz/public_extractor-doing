@@ -1,0 +1,9 @@
+
+
+use step:
+1. in case first use in this session, run as below as well:
+. bin/set-myenv.sh extra_settings/mysetting
+
+2. use doing
+cat file| bin/doing extract
+
