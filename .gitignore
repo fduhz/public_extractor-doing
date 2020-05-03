@@ -1,4 +1,2 @@
-/
-article/*
-
-/word_books/*
+#/articles/*
+#/word_books/*
